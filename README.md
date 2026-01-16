@@ -1,0 +1,1 @@
+# Analysis-of-a-person-s-emotional-state-based-on-their-voice-using-Fourier-Transform
